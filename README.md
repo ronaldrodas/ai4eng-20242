@@ -9,3 +9,6 @@ En el archivo exploracion.ipynb se puede observar como se cargan los datos de la
 
 # Segunda entrega
 Se agrega el segundo archivo 02 - preprocesado.ipynb el cual tiene todo el preprocesamiento de los datos explicado en el siguiente video: https://youtu.be/ASMJ0qGrsk8
+
+# Tercera entrega
+https://youtu.be/ig3nHnBQ0YM
