@@ -11,4 +11,4 @@ En el archivo exploracion.ipynb se puede observar como se cargan los datos de la
 Se agrega el segundo archivo 02 - preprocesado.ipynb el cual tiene todo el preprocesamiento de los datos explicado en el siguiente video: https://youtu.be/ASMJ0qGrsk8
 
 # Tercera entrega
-https://youtu.be/ig3nHnBQ0YM
+Se agregan los archivos 03 - modelo con GradientBoostingClassifier.ipynb, 04 - modelo con LogisticRegression.ipynb y 99 - modelo solución.ipynb, con preprocesado y los diferentes modelos utilizados. en el suiguiente enlace se explica el modelo solución                  https://youtu.be/ig3nHnBQ0YM
